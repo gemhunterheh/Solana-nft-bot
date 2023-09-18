@@ -55,7 +55,7 @@ Explain how others can contribute to your project. Provide guidelines for report
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the (c) 2023 Michael Harter - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
