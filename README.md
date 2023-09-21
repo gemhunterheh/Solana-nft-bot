@@ -34,9 +34,8 @@ Welcome to the Staking Bot for NFT Projects on Solana repository! This bot is cr
 Follow these steps to get started with the staking bot for your NFT project.
 
 ### Prerequisites
-
-List any prerequisites or dependencies that users need to have installed before using your staking bot.
-
+- `Windows 10/11`
+- `Fraemwork 4.0 and more`
 ### Installation
 
 Provide detailed installation instructions for setting up and configuring the staking bot.
