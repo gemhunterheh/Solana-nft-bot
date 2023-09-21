@@ -76,11 +76,26 @@ In summary, staking bots provide a mechanism for NFT holders to earn rewards and
 
 ## Configuration
 
-Detail how users can configure staking parameters, rewards, and other settings to tailor the bot to their specific NFT project.
+**1. Choose the Staking Token:**
+   - Decide which Solana-based token users will stake. This can be the project's native SPL token or any other SPL token on the Solana blockchain.
 
-## Contributing
+**2. Set the Staking Duration:**
+   - Determine the minimum and maximum staking durations for Solana-based tokens. Specify the locking periods for staked tokens.
 
-Explain how others can contribute to your project. Provide guidelines for reporting issues, submitting feature requests, and contributing code or documentation.
+**3. Define Eligibility Criteria:**
+   - Specify eligibility criteria for staking. Determine whether users need to own a specific type of Solana-based NFT, meet certain rarity criteria, or hold a minimum amount of tokens to participate.
+
+**4. Establish Staking Limits:**
+   - Decide if there will be any limits on the number of NFTs or tokens a user can stake simultaneously. Set minimum and maximum staking amounts.
+
+**5. Rewards Structure:**
+   - Configure how users will be rewarded for staking their NFTs or tokens. Consider the following components:
+   
+   - **Reward Tokens:** Identify which Solana-based tokens users will earn as rewards. This can be the project's native token or other tokens on the Solana blockchain.
+   - **Reward Rate:** Specify the rate at which rewards are distributed. This can be a fixed amount per day or a percentage of the staked tokens.
+   - **Vesting Period:** Decide if rewards should have a vesting period before they can be claimed. Vesting ensures that users remain staked for a certain duration.
+   - **Multiplier or Bonus:** Implement additional rewards for specific actions or conditions, such as early staking or long-term commitment.
+   - **Referral Rewards:** Create a referral program to incentivize users to invite others to stake their Solana-based NFTs or tokens.
 
 ## License
 
