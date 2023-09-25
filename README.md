@@ -15,7 +15,6 @@ A versatile staking bot tailored for NFT projects on the Solana blockchain, desi
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -99,8 +98,4 @@ In summary, staking bots provide a mechanism for NFT holders to earn rewards and
 ## License
 
 This project is licensed under the (c) 2023 Michael Harter - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Mention any libraries, tools, or resources you used or were inspired by in your project.
 
