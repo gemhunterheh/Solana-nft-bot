@@ -19,7 +19,6 @@ A versatile staking bot tailored for NFT projects on the Solana blockchain, desi
 ## Introduction
 
 Welcome to the Staking Bot for NFT Projects on Solana repository! This bot is created to provide NFT projects on the Solana blockchain with a powerful tool to implement staking mechanisms, allowing NFT holders to stake their tokens and earn rewards.
-<img width="400" alt="Screen Shot 2022-01-30 at 10 34 53 pm" src="https://github.com/gemhunterheh/Solana-nft-bot/blob/main/photo.png?raw=true">
 
 ## Features
 
